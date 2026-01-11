@@ -31,3 +31,12 @@ A collection of resources, links, and information for cybersecurity research, an
 
 - https://peps.python.org/pep-0008/
 
+
+## 7 Free Resources to learn Linux + DevOps
+1. Linux >> linuxopsys.com
+2. Bash >> blog.sysxplore.com
+3. AWS >> explore.skillbuilder.aws
+4. Azure >> learn.microsoft.com
+5. DevOps >> edx.org/learn/devops
+6. Docker >> docker-curriculum.com
+7. Kubernetes >> kubernetes.io 
